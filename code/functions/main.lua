@@ -3,5 +3,4 @@ function concatFullName(firstName, lastName)
 end
 
 fullName = concatFullName('Hassan', 'Elazzouzi')
---uncomment bellow to print the results:
---print(fullName)
+print(fullName)
